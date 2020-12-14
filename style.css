@@ -1,0 +1,36 @@
+/* This will be for importing any fonts or images*/
+
+/* This will be for changing the images if needed*/
+img {
+border radius: 30%;
+}
+.imgContain {
+text-align: center;
+}
+/* This will be for Headers*/
+h1, h2, h3 {
+text-align: center;
+font-family: 
+}
+/* This will be for Paragraphs and listed items*/
+p, ul {
+text-align: center;
+font-family: 
+font-size: 35px;
+color: #000000;
+}
+
+ul {
+list-style-position: inside;
+}
+/* This will be for link styles*/
+
+a:link { color: rgba(140,188,229,0.975); }
+a:visited { color: #b500e4; }
+a:hover { color: rgba(201,0,0,0.800);}
+a:active { color: #ffffff; }
+
+/* This will be for any specific color changes*/
+body {
+color: rgba(193,116,255,0.875);
+}
